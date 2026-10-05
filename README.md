@@ -19,7 +19,6 @@
 - 🧠 Currently improving my DSA & Problem Solving skills
 - 🌐 Building Full Stack applications using MERN
 - 🤖 Interested in AI/ML and intelligent applications
-- ☕ Java & C++ Developer
 - 🚀 Always learning and building new projects
 
 ---
@@ -48,17 +47,6 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Interview Confidence Analyzer
-
-AI-based application that analyzes interview confidence using:
-
-- Computer Vision
-- OpenCV
-- MediaPipe
-- CNN
-- FER-2013
-- Streamlit
-
 ### 🌐 MERN Full Stack Projects
 
 Full-stack applications using:
@@ -78,8 +66,6 @@ Practicing:
 - Linked Lists
 - Hashing
 - Recursion
-- Trees
-- Graphs
 - Dynamic Programming
 
 ---
