@@ -40,7 +40,7 @@
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -81,10 +81,3 @@ Practicing:
 </p>
 
 ---
-
-## 🧠 Currently Learning
-
-```text
-DSA → Java → Spring Boot → React → Node.js → System Design
-                         ↓
-                       AI / ML
