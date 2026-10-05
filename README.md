@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Aditya</h1>
 
-<!--
-**geeky-aditya/geeky-aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Software Developer | 🚀 MERN Stack | 🧠 DSA | 
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/geeky-aditya">
+    <img src="https://komarev.com/ghpvc/?username=geeky-aditya&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Passionate about Software Development
+- 🧠 Currently improving my DSA & Problem Solving skills
+- 🌐 Building Full Stack applications using MERN
+- 🤖 Interested in AI/ML and intelligent applications
+- ☕ Java & C++ Developer
+- 🚀 Always learning and building new projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,sql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Interview Confidence Analyzer
+
+AI-based application that analyzes interview confidence using:
+
+- Computer Vision
+- OpenCV
+- MediaPipe
+- CNN
+- FER-2013
+- Streamlit
+
+### 🌐 MERN Full Stack Projects
+
+Full-stack applications using:
+
+- React
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+
+### 💻 DSA & Problem Solving
+
+Practicing:
+
+- Arrays
+- Strings
+- Linked Lists
+- Hashing
+- Recursion
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geeky-aditya&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=geeky-aditya&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+DSA → Java → Spring Boot → React → Node.js → System Design
+                         ↓
+                       AI / ML
