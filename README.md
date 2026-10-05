@@ -66,8 +66,7 @@ Practicing:
 - Linked Lists
 - Hashing
 - Recursion
-- Dynamic Programming
-
+- etc
 ---
 
 ## 📊 GitHub Stats
